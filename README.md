@@ -8,7 +8,10 @@ My work in computational linguistics at Robert Frank's lab CLAY and his course i
 Used word2vec and cosine similarity to examine how word embeddings encode meaning.
 
 ## Project 2: Language Model
-Created a neural network language model from scratch using Numpy.
+
+Created a neural network language model from scratch using Numpy, with the the following architecture:
+
+![Network Architecture](https://cdn.discordapp.com/attachments/584925805042335756/723680405860909167/5eb47c77c184ea00018a62d0.png)
 
 ## Project 3: Part of Speech Tagger
 Implemented both a fully connected and bi-directional RNN network models for English part of speech tagging
