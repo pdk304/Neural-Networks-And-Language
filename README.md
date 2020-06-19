@@ -26,6 +26,4 @@ Implemented an Attention-based encoder-decoder network for translating grammar p
 
 <img src="https://miro.medium.com/max/1400/1*A4H-IhqwjNZ_eL57Cqch0A.png" width="800">
 
-
-![seq](https://miro.medium.com/max/1400/1*A4H-IhqwjNZ_eL57Cqch0A.png)
 Img source: https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
