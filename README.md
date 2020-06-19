@@ -16,5 +16,11 @@ Created a neural network language model from scratch using Numpy, with the the f
 ## Project 3: Part of Speech Tagger
 Implemented both a fully connected and bi-directional RNN network models for English part of speech tagging
 
+![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ## Project 4: Seq2seq grammar machine translation
-Implemented an encoder-decoder network for translating grammar phrases in English.
+Implemented an Attention-based encoder-decoder network for translating grammar phrases in English.
+
+![seq](https://miro.medium.com/max/1400/1*A4H-IhqwjNZ_eL57Cqch0A.png)
+Img source: https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
