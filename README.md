@@ -9,9 +9,9 @@ Used word2vec and cosine similarity to examine how word embeddings encode meanin
 
 ## Project 2: Language Model
 
-Created a neural network language model from scratch using Numpy, with the the following architecture:
+Created a neural network language model from scratch using Numpy, with the the following architecture
 
-![Network Architecture](https://cdn.discordapp.com/attachments/584925805042335756/723681905513332757/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/584925805042335756/723681905513332757/unknown.png" width="200">
 
 ## Project 3: Part of Speech Tagger
 Implemented both a fully connected and bi-directional RNN network models for English part of speech tagging
