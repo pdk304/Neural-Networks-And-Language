@@ -18,7 +18,7 @@ Implemented both a fully connected and bi-directional RNN network models for Eng
 
 <img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png" width="800">
 
-https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+Image source: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## Project 4: Seq2seq grammar machine translation
 Implemented an Attention-based encoder-decoder network for translating grammar phrases in English.
@@ -26,4 +26,4 @@ Implemented an Attention-based encoder-decoder network for translating grammar p
 
 <img src="https://miro.medium.com/max/1400/1*A4H-IhqwjNZ_eL57Cqch0A.png" width="800">
 
-Img source: https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
+Image source: https://towardsdatascience.com/day-1-2-attention-seq2seq-models-65df3f49e263
