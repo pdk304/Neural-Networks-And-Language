@@ -1,4 +1,4 @@
-# NeuralNetworksAndLanguage
+# Neural Networks and Language
 My work in computational linguistics at Robert Frank's lab CLAY and his course in neural networks and language
 
 ## Project 1: Word Embeddings
