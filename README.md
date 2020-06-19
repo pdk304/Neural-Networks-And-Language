@@ -11,10 +11,12 @@ Used word2vec and cosine similarity to examine how word embeddings encode meanin
 
 Created a neural network language model from scratch using Numpy, with the the following architecture
 
-<img src="https://cdn.discordapp.com/attachments/584925805042335756/723681905513332757/unknown.png" width="200">
+![Network Architecture](https://cdn.discordapp.com/attachments/584925805042335756/723681905513332757/unknown.png)
 
 ## Project 3: Part of Speech Tagger
 Implemented both a fully connected and bi-directional RNN network models for English part of speech tagging
+
+<img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png" width="1000">
 
 ![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
