@@ -16,7 +16,7 @@ Created a neural network language model from scratch using Numpy, with the the f
 ## Project 3: Part of Speech Tagger
 Implemented both a fully connected and bi-directional RNN network models for English part of speech tagging
 
-<img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png" width="1000">
+<img src="https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png" width="800">
 
 ![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-unrolled.png)
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
